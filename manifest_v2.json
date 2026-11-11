@@ -2,7 +2,7 @@
   "item": {
     "id": "979887597618",
     "restype": "watchface",
-    "name": "首创IOS28充电弹窗",
+    "name": "IOS28充电弹窗",
     "description": "苹果线性柔性弹窗动画，丝滑不卡顿。Lua原生代码任意界面均可使用\n单击渐出动画\n\n如果你下载的版本不支持，请到链接下载软件工具联系客服补发或者售后",
     "preview": [
       "media/0-1794131223.png",
@@ -10,7 +10,7 @@
       "media/IMG_20261108_164944.jpg",
       "media/IOS28充电弹窗_预览.webp"
     ],
-    "icon": "media/1794391080863.png",
+    "icon": "media/1794391080863_compressed (1).jpg",
     "cover": "media/f3865420abac7759ec31c4d1754339da.jpg",
     "author": [
       {
