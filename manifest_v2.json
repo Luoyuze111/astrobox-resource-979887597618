@@ -10,7 +10,7 @@
       "media/IMG_20261108_164944.jpg",
       "media/Video_1794322660641_972_3-8s.webp"
     ],
-    "icon": "media/Screenshot_2026-09-17-00-17-56-044_com.miui.galle_compressed.jpg",
+    "icon": "media/1794391080863.png",
     "cover": "media/f3865420abac7759ec31c4d1754339da.jpg",
     "author": [
       {
@@ -59,6 +59,11 @@
     "xmb11": {
       "version": "1.0.0",
       "file_name": "downloads/11充电动画.bin",
+      "versionCode": 65536
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/9p充电动画.bin",
       "versionCode": 65536
     }
   },
