@@ -5,10 +5,10 @@
     "name": "IOS28充电弹窗",
     "description": "苹果线性柔性弹窗动画，丝滑不卡顿。Lua原生代码任意界面均可使用\n单击渐出动画\n\n如果你下载的版本不支持，请到链接下载软件工具联系客服补发或者售后",
     "preview": [
+      "media/IOS28充电弹窗_预览.webp",
       "media/0-1794131223.png",
       "media/IMG_20261108_174626.jpg",
-      "media/IMG_20261108_164944.jpg",
-      "media/IOS28充电弹窗_预览.webp"
+      "media/IMG_20261108_164944.jpg"
     ],
     "icon": "media/1794391080863_compressed (1).jpg",
     "cover": "media/f3865420abac7759ec31c4d1754339da.jpg",
@@ -23,31 +23,22 @@
       }
     ]
   },
-  "links": [],
+  "links": [
+    {
+      "title": "捐赠购买",
+      "url": "https://www.nsof.top/resource.php?id=126",
+      "icon": "download"
+    }
+  ],
   "downloads": {
-    "xmrw6": {
-      "version": "1.0.0",
-      "file_name": "downloads/rw6充电动画 (1).bin",
-      "versionCode": 65536
-    },
-    "xmb10": {
-      "version": "1.0.0",
-      "file_name": "downloads/10充电动画.bin",
-      "versionCode": 65536
-    },
     "xmb10p": {
       "version": "1.0.0",
       "file_name": "downloads/10p充电动画.bin",
       "versionCode": 65536
     },
-    "xmb9": {
+    "xmrw6": {
       "version": "1.0.0",
-      "file_name": "downloads/9充电动画.bin",
-      "versionCode": 65536
-    },
-    "xmb11nfc": {
-      "version": "1.0.0",
-      "file_name": "downloads/11充电动画.bin",
+      "file_name": "downloads/rw6充电动画 (1).bin",
       "versionCode": 65536
     },
     "xmb11": {
@@ -55,9 +46,24 @@
       "file_name": "downloads/11充电动画.bin",
       "versionCode": 65536
     },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/11充电动画.bin",
+      "versionCode": 65536
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/9充电动画.bin",
+      "versionCode": 65536
+    },
     "xmb9p": {
       "version": "1.0.0",
       "file_name": "downloads/9p充电动画.bin",
+      "versionCode": 65536
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/10充电动画.bin",
       "versionCode": 65536
     }
   },
